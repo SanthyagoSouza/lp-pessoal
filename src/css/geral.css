@@ -84,7 +84,7 @@ section ul {
 }
 
 /* CARDS DE PROJETO (placeholder) */
-#contatos > div {
+#portifolio > div {
   background-color: #fff;
   border: 1px solid #ccc;
   padding: 1.5rem;
@@ -93,7 +93,7 @@ section ul {
   transition: transform 0.3s ease;
 }
 
-#contatos > div:hover {
+#portifolio > div:hover {
   transform: translateY(-4px);
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
